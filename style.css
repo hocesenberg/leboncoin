@@ -1,0 +1,44 @@
+
+header{
+  background-color: orangered;
+  color:#fff;
+  display: inline-flex;
+  font-weight: bold;
+  font-family: oxygen;
+  width: 100%;
+
+}
+ul{
+  list-style:none ;
+}
+li{
+  display: inline-block;
+  padding: .5em;
+  text-align: center;
+}
+
+button{
+  background-color: orangered;
+  color: #fff;
+  font-family: oxygen;
+  font-weight: bold;
+  width: 15%;
+  height: 15%;
+  text-align: center;
+}
+
+
+.region{
+  text-align: right;
+  display: inline-block;
+  max-width:100%;
+  float:right;
+  font-weight: bold;
+  color:blue;
+}
+.carte{
+  /*width: 30%;*/
+  height: 30%;
+margin-left: 30%;
+margin-top: 15%;
+}
